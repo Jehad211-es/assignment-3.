@@ -1,0 +1,7 @@
+[
+  {"id":1,"name":"JEHAD","pass":"123456","email":"JEHAD@gmail.com","age":21},
+  {"id":2,"name":"hour","pass":"654321","email":"hour@gmail.com","age":18},
+  {"id":3,"name":"Ali","pass":"ali123","email":"ali@gmail.com","age":25},
+  {"id":4,"name":"kamlia","pass":"kam123","email":"kamlia@gmail.com","age":30},
+  {"id":5,"name":"Omar","pass":"omar123","email":"omar@gmail.com","age":35}
+]
